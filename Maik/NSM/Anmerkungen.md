@@ -1,0 +1,5 @@
+- Julia für meiste codes, teilweise Python- pandas für große Datenlisten
+- scipy für Datenauswertung
+- matplotlib für 2D plots, enthält auch basemaps
+- auch pygmt für basemap und projizierte plots
+- pyvista für 3D plots
